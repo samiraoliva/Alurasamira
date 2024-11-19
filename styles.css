@@ -9,8 +9,8 @@ body {
     justify-content: center;
 }
 
-div {
-margin-right: 20px;
+.chamada-texto {
+margin-right: 5%;
 }    
 
 header {
@@ -18,5 +18,4 @@ header {
 padding: 20px;
 font-size: 32px;
 color: rgb(42,122,228);
-
 }
